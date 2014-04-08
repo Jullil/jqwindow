@@ -1,13 +1,10 @@
 /**
  * jQuery Window Plugin v.0.2
  *
- * Copyright (c) 2011 Zapp-East llc.
- *
  * Dual licensed under the MIT and GPL licenses:
  *   http://www.opensource.org/licenses/mit-license.php
  *   http://www.gnu.org/licenses/gpl.html
  *
- * @copyright 2011 Zapp-East llc.
  * @author Julia Loykova <julinary@gmail.com> main contributor and maintainer
  * @author Eugene Myazin <meniam@gmail.com>
  * @version 0.2 beta
